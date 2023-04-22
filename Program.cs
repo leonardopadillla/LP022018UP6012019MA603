@@ -1,4 +1,9 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using LP022018UP6012019MA603.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<LP022018UP6012019MA603Context>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("LP022018UP6012019MA603Context") ?? throw new InvalidOperationException("Connection string 'LP022018UP6012019MA603Context' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

@@ -12,10 +12,10 @@ namespace LP022018UP6012019MA603
         {
         }
 
-        public DbSet<Calificaciones> calificaciones {get; set;}
-        public DbSet<Comentarios> estados_equipo {get; set;}
-        public DbSet<Publicaciones> publicaciones {get; set;}
-        public DbSet<Usuario> usuarios {get; set;}
-        public DbSet<Roles> roles{get; set;}
+        public DbSet<calificacion> calificacion {get; set;}
+        public DbSet<comentario> estados_equipo {get; set;}
+        public DbSet<publicacion> publicacion {get; set;}
+        public DbSet<usuario> usuario {get; set;}
+        public DbSet<rol> rol{get; set;}
     }
 }

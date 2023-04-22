@@ -16,6 +16,46 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\padil\source\repos\LP022018UP6012019MA603\LP022018UP6012019MA603
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/calificacions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FsaWZpY2FjaW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/calificacions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FsaWZpY2FjaW9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/calificacions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FsaWZpY2FjaW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/calificacions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FsaWZpY2FjaW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/calificacions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FsaWZpY2FjaW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/comentarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29tZW50YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/comentarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29tZW50YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/comentarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29tZW50YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/comentarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29tZW50YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/comentarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29tZW50YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -24,12 +64,72 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/publicacions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHVibGljYWNpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/publicacions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHVibGljYWNpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/publicacions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHVibGljYWNpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/publicacions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHVibGljYWNpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/publicacions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHVibGljYWNpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/rols/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Nccm9sc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/rols/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Nccm9sc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/rols/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Nccm9sc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/rols/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Nccm9sc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/rols/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Nccm9sc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXN1YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/padil/source/repos/LP022018UP6012019MA603/LP022018UP6012019MA603/Views/_ViewImports.cshtml]

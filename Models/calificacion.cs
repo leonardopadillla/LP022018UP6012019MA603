@@ -6,7 +6,8 @@
         public int PublicacionId { get; set; }
         public int UsuarioId { get; set; }
         public int Calificacion { get; set; }
-        public publicacion Publicacion { get; set; } 
-        public usuario Usuario { get; set; } 
+        public publicacion Publicacion { get; set; }
+        public usuario Usuario { get; set; }
     }
+}
 

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LP022018UP6012019MA603/1.0.0": {
+        "runtime": {
+          "LP022018UP6012019MA603.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LP022018UP6012019MA603/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

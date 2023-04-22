@@ -1,9 +1,14 @@
 namespace LP022018UP6012019MA603.Models
 {
-    public class ErrorViewModel
+    public class Usuario
     {
-        public string? RequestId { get; set; }
-
-        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
+        public int UsuarioId { get; set; }
+        public int RolId { get; set; }
+        public string NombreUsuario { get; set; }
+        public string Clave { get; set; }
+        public string Nombre { get; set; }
+        public string Apellido { get; set; }
+        public Roles Rol { get; set; } // propiedad de navegación
     }
+
 }

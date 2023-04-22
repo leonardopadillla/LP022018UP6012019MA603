@@ -7,6 +7,6 @@ namespace LP022018UP6012019MA603.Models
         public string Descripcion { get; set; }
         public int UsuarioId { get; set; }
         public Usuario Usuario { get; set; } // propiedad de navegación
-        public List<comentario> Comentarios { get; set; } // propiedad de navegación
+        public List<Comentarios> Comentarios { get; set; } // propiedad de navegación
         public List<Calificaciones> Calificaciones { get; set; } // propiedad de navegación
     }
